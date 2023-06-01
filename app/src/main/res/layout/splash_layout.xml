@@ -21,15 +21,15 @@
         android:text="Reciclagem"
         android:textColor="#FFF"
         android:layout_gravity="center_horizontal"
-        android:textSize="30dp"
+        android:textSize="40dp"
         android:fontFamily="@font/notosans"
         android:layout_height="wrap_content"/>
 
     <ProgressBar
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-
         android:layout_marginTop="10dp"
+
         android:layout_gravity="center_horizontal"/>
 
     
